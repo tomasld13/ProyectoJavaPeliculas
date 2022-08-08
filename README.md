@@ -97,11 +97,11 @@ Sin embargo si es otro sistema operativo, como MacOS, la ruta podría ser:
 
 ## SALIDA DEL PROGRAMA
 Según hemos comentado, las opciones que muestra el menú de opciones para el usuario son:
-*. 1- Iniciar catalogo películas.
+1. Iniciar catalogo películas.
 2. Agregar película.
 3. Listar Películas.
 4. Buscar Película.
-5. 0- Salir.
+5. 0. Salir.
 
 Y como vemos, dependiendo de la opción elegida por el usuario es la acción que se ejecuta. Así
 que este es el menú que debemos programar para que el usuario pueda interactuar con la
