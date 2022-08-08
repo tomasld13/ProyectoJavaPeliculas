@@ -22,7 +22,7 @@ a procesar en el programa.
 A continuación veremos a más detalle cada uno de los paquetes de la aplicación Catalogo de Peliculas a
 desarrollar.
 
-##PELICULA.JAVA
+## PELICULA.JAVA
 Esta clase nos servirá para representar el objeto Pelicula. En esta aplicación
 dejamos simple la definición de este objeto, sin embargo podría tener más atributos
 y hacer más compleja esta aplicación, pero el objetivo es que podamos desarrollar
@@ -31,7 +31,7 @@ necesaria para aplicar los conceptos estudiados a lo largo de este curso.
 Por ello este objeto se debe codificar con lo indicado en el diagrama de clase
 mostrado.
 
-##ACCESODATOS.JAVA
+## ACCESODATOS.JAVA
 Esta interfaz define los métodos para interactuar con el archivo que administrará el
 catálogo de películas. La clase AccesoDatosImpl es la que finalmente se encargará de
 agregar el comportamiento de cada uno de los métodos descritos.
@@ -56,7 +56,7 @@ punto de vista de lo que necesita realizar la aplicación, pero de alguna manera
 interesa si la información se almacena o proviene de un archivo, ya que de eso se
 encargará precisamente el paquete de datos.
 
-##CATALOGOPELICULAS.JAVA
+## CATALOGOPELICULAS.JAVA
 El paquete de com.películas.negocio contiene las clases que
 implementarán las reglas de negocio de nuestra aplicación. Y a su vez este es el
 paquete que será el intermediario entre la interfaz con el usuario (método main) y
@@ -74,7 +74,7 @@ posible a otra clase, así que es sólo una de las muchas ventajas de programar
 utilizando interfaces y no utilizar directamente la implementación de la
 funcionalidad que necesitamos.
 
-##CLASE MAIN
+## CLASE MAIN
 Esta clase representa la inteface con la que el usuario interactua. Esta clase solicita via consola la acción
 requerida por parte del usuario, y solicita opciones como:
 1.- Iniciar catalogo películas
@@ -93,7 +93,7 @@ se puede utilizar si estamos en Windows es:
 Sin embargo si es otro sistema operativo, como MacOS, la ruta podría ser:
 “/Volumes/gm/catalogoPeliculas/películas.txt “
 
-##SALIDA DEL PROGRAMA
+## SALIDA DEL PROGRAMA
 Según hemos comentado, las opciones que muestra el menú de opciones para el usuario son:
 1.- Iniciar catalogo películas
 2.- Agregar película
