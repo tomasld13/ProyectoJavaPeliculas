@@ -20,8 +20,7 @@ funcionalidad de nuestra aplicación, también conocido como las reglas de negoc
 CursoProgramacionJavaLaboratorioFinal, el cual incluye un menú de opciones para escoger la opción
 a procesar en el programa.
 
-## A continuación veremos a más detalle cada uno de los paquetes de la aplicación Catalogo de Peliculas a
-desarrollar.
+## A continuación veremos a más detalle cada uno de los paquetes de la aplicación Catalogo de Peliculas a desarrollar.
 
 ### PELICULA.JAVA
 Esta clase nos servirá para representar el objeto Pelicula. En esta aplicación
