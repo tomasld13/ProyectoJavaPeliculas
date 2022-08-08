@@ -1,6 +1,6 @@
 # Proyecto Java - Peliculas
 Por Tomás Ledesma.
-Curso de Fundamentos de Programación en Java - Global Mentoring.
+Curso de Programación con Java - Global Mentoring.
 
 En este laboratorio final vamos a crear un ejercicio que simule un catálogo de películas. Para este
 ejercicio, vamos a almacenar la información del catálogo de películas en un archivo de texto, en una
