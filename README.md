@@ -1,4 +1,4 @@
-# Proyecto Java - Catalogo de Peliculas
+# Catalogo de Peliculas - Proyecto Java
 Por Tomás Ledesma.
 Curso de Universidad Java - Global Mentoring (https://www.globalmentoring.com.mx/).
 
