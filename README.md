@@ -77,11 +77,11 @@ funcionalidad que necesitamos.
 ## CLASE MAIN
 Esta clase representa la inteface con la que el usuario interactua. Esta clase solicita via consola la acción
 requerida por parte del usuario, y solicita opciones como:
-1.- Iniciar catalogo películas
-2.- Agregar película
-3.- Listar Películas
-4.- Buscar Película
-0.- Salir
+1. Iniciar catalogo películas
+2. Agregar película
+3. Listar Películas
+4. Buscar Película
+0. Salir
 Y dependiendo de la opción elegida por el usuario es la acción que se ejecuta.
 Esta clase se apoya de la clase Catalogopeliculas para realizar las operaciones que necesita esta
 aplicación.
@@ -95,11 +95,11 @@ Sin embargo si es otro sistema operativo, como MacOS, la ruta podría ser:
 
 ## SALIDA DEL PROGRAMA
 Según hemos comentado, las opciones que muestra el menú de opciones para el usuario son:
-1.- Iniciar catalogo películas
-2.- Agregar película
-3.- Listar Películas
-4.- Buscar Película
-0.- Salir
+1. Iniciar catalogo películas
+2. Agregar película
+3. Listar Películas
+4. Buscar Película
+0. Salir
 Y como vemos, dependiendo de la opción elegida por el usuario es la acción que se ejecuta. Así
 que este es el menú que debemos programar para que el usuario pueda interactuar con la
 aplicación.
